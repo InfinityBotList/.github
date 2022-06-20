@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://pbs.twimg.com/profile_banners/1365471907001237510/1653174132/1500x500" />
+  <a href="https://infinitybots.gg"><img src="https://pbs.twimg.com/profile_banners/1365471907001237510/1653174132/1500x500" /></a>
   <br> 
 </h2>
 <p>
