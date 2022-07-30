@@ -26,7 +26,9 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 </h2>
 
 <p>
-  Infinity is powered by Digital Ocean. Use the link below and get $100 Credit towards your first server. 
+  Infinity Development & Infinity Bots are powered by Digital Ocean. They provide reliable, dedicated servers
+  with a variety of add ons, database solutions and more. If you want to try their services you can click the "Digital Ocean" button
+  below and get a free $100 credit towards your first server.
 </p>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6b81cde8d44&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
