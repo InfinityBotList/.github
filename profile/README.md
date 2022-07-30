@@ -18,3 +18,15 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
   <li><a href="https://blog.botlist.app">Blog</a></li>
   <li><a href="https://status.botlist.site">Status</a></li>
 </ul>
+
+<hr>
+
+<h2>
+  Hosting
+</h2>
+
+<p>
+  Infinity is powered by Digital Ocean. Use the link below and get $100 Credit towards your first server. 
+</p>
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6b81cde8d44&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
