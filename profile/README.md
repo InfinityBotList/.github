@@ -22,6 +22,17 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 <hr>
 
 <h2>
+  Our Services
+</h2>
+
+<ul>
+  <li><a href="https://infinitybots.gg">Infinity Bot List - v3.9.4</a></li>
+  <li><a href="https://api.infinitybots.gg">Infinity API - v5.0.0</a></li>
+</ul>
+
+<hr>
+
+<h2>
   Hosting
 </h2>
 
