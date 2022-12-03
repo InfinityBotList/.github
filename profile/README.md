@@ -1,6 +1,6 @@
 <h2 align='center'>
   <a href="https://infinitybots.gg">
-    <img src="https://pbs.twimg.com/profile_banners/1365471907001237510/1653174132/1500x500" />
+    <img src="https://cdn.infinitybots.xyz/images/png/InfinityBanner.png" />
   </a>
   <br> 
 </h2>
@@ -29,7 +29,8 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 
 <ul>
   <li><a href="https://infinitybots.gg">Infinity Bot List - v3.9.4</a></li>
-  <li><a href="https://api.infinitybots.gg">Infinity API - v5.0.0</a></li>
+  <li><a href="https://api.infinitybots.gg">Infinity API - v5.0.0 [Popplio]</a></li>
+  <li>Key infrastructure used by Infinity Development such as <code>Void</code>, our maintenance system as well as logging, security and more!</li>
 </ul>
 
 <hr>
