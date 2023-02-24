@@ -10,9 +10,11 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 
 <hr>
 
-<h2>
-  Our Links
-</h2>
+## Looking for v3?
+
+The old code for v3 can be found at https://github.com/Infinity-Development to reduce clutter here!.
+
+## Our Links
 
 <ul>
   <li><a href="https://infinitybots.gg">Website</a></li>
@@ -28,7 +30,7 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 </h2>
 
 <ul>
-  <li><a href="https://infinitybots.gg">Infinity Bot List - v3.9.4</a></li>
+  <li><a href="https://infinitybots.gg">Infinity Bot List - v4.0</a></li>
   <li><a href="https://api.infinitybots.gg">Infinity API - v5.0.0 [Popplio]</a></li>
   <li>Key infrastructure used by Infinity Development such as <code>Void</code>, our maintenance system as well as logging, security and more!</li>
 </ul>
