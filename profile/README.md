@@ -48,3 +48,5 @@ The old code for v3 can be found at https://github.com/Infinity-Development to r
 </p>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6b81cde8d44&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+<a href="https://www.producthunt.com/posts/infinity-bot-list?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-infinity&#0045;bot&#0045;list" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=381375&theme=light" alt="Infinity&#0032;Bot&#0032;List - The&#0032;future&#0032;of&#0032;Discord&#0032;Bot&#0032;listing&#0032;services | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
