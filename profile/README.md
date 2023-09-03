@@ -1,6 +1,6 @@
 <h2 align='center'>
   <a href="https://infinitybots.gg">
-    <img src="https://cdn.infinitybots.xyz/images/png/InfinityBanner.png" />
+    <img src="https://cdn.discordapp.com/attachments/1132817220611866745/1147842039447298129/1500x500_2.jpg" />
   </a>
   <br> 
 </h2>
