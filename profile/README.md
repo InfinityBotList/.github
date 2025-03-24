@@ -1,52 +1,39 @@
-<h2 align='center'>
-  <a href="https://infinitybots.gg">
-    <img src="https://cdn.discordapp.com/attachments/1132817220611866745/1147842039447298129/1500x500_2.jpg" />
-  </a>
-  <br> 
-</h2>
-<p>
-The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we make it easier for you to advertise and grow your bots using our vanity links, widgets, bot packs and more! Search our vast list of bots for an exciting start to your Discord Server. Filter by name, category, tags and description to find a bot that suits your needs!
-</p>
+# Infinity Bot List
 
-<hr>
+The future of [Discord](https://discord.com) Bot Listing Services. We make it easier for you to advertise and grow your bots using vanity links, widgets, bot packs, and more! Search our vast list of bots to find the perfect match for your Discord server. Filter by name, category, tags, and description to find a bot that suits your needs!
 
-## Looking for v3?
+---
 
-The old code for v3 can be found at https://github.com/Infinity-Development to reduce clutter here!.
+## 🚀 **Our Links**
 
-## Our Links
+- [Website](https://infinitybots.gg)
+- [Discord](https://infinitybots.gg/discord)
+- [Blog](https://blog.botlist.app)
+- [Status](https://status.botlist.site)
 
-<ul>
-  <li><a href="https://infinitybots.gg">Website</a></li>
-  <li><a href="https://infinitybots.gg/discord">Discord</a></li>
-  <li><a href="https://blog.botlist.app">Blog</a></li>
-  <li><a href="https://status.botlist.site">Status</a></li>
-</ul>
+---
 
-<hr>
+## 🛠️ **Our Services**
 
-<h2>
-  Our Services
-</h2>
+- [Infinity Bot List - v4.0](https://infinitybots.gg)
+- [Infinity API - v5.0.0 (Popplio)](https://spider.infinitybots.gg)
+- Key infrastructure used by Infinity Development, including [Void](https://github.com/InfinityBotList/void) (our maintenance system), logging, security, and more.
 
-<ul>
-  <li><a href="https://infinitybots.gg">Infinity Bot List - v4.0</a></li>
-  <li><a href="https://api.infinitybots.gg">Infinity API - v5.0.0 [Popplio]</a></li>
-  <li>Key infrastructure used by Infinity Development such as <code>Void</code>, our maintenance system as well as logging, security and more!</li>
-</ul>
+---
 
-<hr>
+## 📊 **Latest Organization Activity**
 
-<h2>
-  Hosting
-</h2>
+[![GitHub Activity](https://img.shields.io/github/commit-activity/m/InfinityBotList/Popplio?label=Commits&logo=github)](https://github.com/InfinityBotlist)  
+[![GitHub Contributors](https://img.shields.io/github/contributors/InfinityBotList/Popplio?label=Contributors)](https://github.com/InfinityBotList/Popplio)  
+[![GitHub Stars](https://img.shields.io/github/stars/InfinityBotList/Popplio?label=Stars)](https://github.com/InfinityBotList)  
+[![GitHub Issues](https://img.shields.io/github/issues/InfinityBotList/Popplio?label=Issues)](https://github.com/InfinityBotList)
 
-<p>
-  Infinity Development & Infinity Bots are powered by Digital Ocean. They provide reliable, dedicated servers
-  with a variety of add ons, database solutions and more. If you want to try their services you can click the "Powered by Digital Ocean" 
-  button below and get a free $100 credit towards your first server.
-</p>
+---
 
-<a href="https://www.digitalocean.com/?refcode=a7f497dd62e5&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+## 👥 **Top Contributors**
 
-<a href="https://www.producthunt.com/posts/infinity-bot-list?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-infinity&#0045;bot&#0045;list" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=381375&theme=light" alt="Infinity&#0032;Bot&#0032;List - The&#0032;future&#0032;of&#0032;Discord&#0032;Bot&#0032;listing&#0032;services | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+[![Contributors](https://contrib.rocks/image?repo=InfinityBotList/Popplio)](https://github.com/InfinityBotList)
+
+---
+
+Thank you for being part of the Infinity Bot List community. We’re always here to help you grow and improve your Discord bots!
